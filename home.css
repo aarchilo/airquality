@@ -1,0 +1,28 @@
+#map{
+    height:100vh;
+    width:53%;
+    position: absolute;
+    right: 0;
+    top:0;
+}
+#firstr{
+    margin-top: 5%;
+    margin-left: 5%;
+    
+}
+
+#headi{
+    font-size: larger;
+}
+#parent{
+    display:flex;
+}
+#ss{
+    margin-left: 2%;
+}
+
+.card-body,.card,.row{
+    color:green;
+    margin: 5%;
+  
+}
